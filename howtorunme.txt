@@ -1,0 +1,4 @@
+1)Download the files together into your directory from GitHub
+2)Run the HTML file—Double Click to Open on Chrome/Firefox/Safari Browser
+3)Enjoy the ColorGame App!
+4)Share and have fun.
